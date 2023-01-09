@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Bidikikar</h1>
 <h3 align="center">A passionate Computer Engineer, Looking for Job opportunity.</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbidkikar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbidkikar" /> </p>
 
 - 🌱 I’m currently learning **Java & Programming Fundamentals.**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sachin-bidikikar](www.linkedin.com/in/sachin-bidikikar)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sachinbidkikar)
 
 - 💬 Ask me about **Java,OOP'S & web.**
 
