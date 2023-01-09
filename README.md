@@ -8,13 +8,15 @@
 
 - 🌱 I’m currently learning **Java & Programming Fundamentals.**
 
+- 👨‍💻 A good Mentor can change a game- **Bridgelabz**
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sachinbidkikar)
 
 - 💬 Ask me about **Java,OOP'S & web.**
 
 - 📫 How to reach me **sachinbidkikar@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sachin-bidikikar](www.linkedin.com/in/sachin-bidikikar)
+- 📄 Find my Resume [www.linkedin.com/in/sachin-bidikikar](www.linkedin.com/in/sachin-bidikikar)
 
 
 
