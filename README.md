@@ -1,4 +1,4 @@
-![logo](https://github.com/sachinbidkikar/sachinbidkikar/blob/main/SachinGitBG.png)
+
 <h1 align="center">Hi 👋, I'm Sachin Bidikikar</h1>
 <h3 align="center">A passionate Computer Engineer, Looking for Job opportunity.</h3>
 
