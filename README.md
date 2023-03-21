@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbidkikar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbidkikar" /> </p>
 
-- 🌱 I’m currently learning **Java & Programming Fundamentals.**
-
-- 👨‍💻 A good Mentor can change a game- **Bridgelabz**
+- 🌱 I’m currently learning **SpringBoot & Angular**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sachinbidkikar)
 
-- 💬 Ask me about **Java,OOP'S & web.**
+- 💬 Ask me about **Java,OOP'S & Web Tech's.**
 
-- 📫 How to reach me **sachinbidkikar@gmail.com**
+- 📫 Reach me **sachinbidkikar@gmail.com**
 
 - 📄 Find my Resume [www.linkedin.com/in/sachin-bidikikar](www.linkedin.com/in/sachin-bidikikar)
 
