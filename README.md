@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Sachin Bidikikar</h1>
-<h3 align="center">A passionate Computer Engineer, Looking for Job opportunity.</h3>
+<h1 align="center">Hi 👋, This is Sachin Bidikikar</h1>
+<h3 align="center">A Passionate Computer Engineer, Looking for Job opportunity.</h3>
 
 <img align="right" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
