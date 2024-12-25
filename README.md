@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sachinbidkikar)
 
-- 💬 Ask me about **Java,OOP'S & Web Tech's.**
-
-- 📫 Reach me **sachinbidkikar@gmail.com**
+- 💬 Ask me about **Java, Groovy, Spring, Spring Boot & Microservices.**
 
 - 📄 Find my Resume [www.linkedin.com/in/sachin-bidikikar](www.linkedin.com/in/sachin-bidikikar)
 
