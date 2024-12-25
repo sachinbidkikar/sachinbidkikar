@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, This is Sachin Bidikikar</h1>
 <h3 align="center">A Passionate Computer Engineer, Looking for Job opportunity.</h3>
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbidkikar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbidkikar" /> </p>
-
-- 🌱 I’m currently learning **SpringBoot & Angular**
+<break> 
+  
+- 🌱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Java, Spring Boot, Groovy, JPA Hibernate.
+     𝗧𝗼𝗼𝗹𝘀: Git, Maven, Gradle, Postman, Docker (learning)
+     𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: Oracle, MongoDB.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sachinbidkikar)
 
